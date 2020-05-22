@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Project Clarify Extension",
+  "description": "This extension will help increase your focus and mindfulness",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "c-icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}

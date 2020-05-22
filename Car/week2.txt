@@ -1,0 +1,8 @@
+reading notes:
+- are we thinking of using subvocalizations?
+	- should we have participants focus on specific words?
+	- related words (ex: right/left) or unrelated (yes = forward, no = backward, etc)
+- outside factors: gender, time of day, etc... should we consider?
+	- probably after we get a working model lol
+	- pretraining?
+- where r we going to enough training data - limited

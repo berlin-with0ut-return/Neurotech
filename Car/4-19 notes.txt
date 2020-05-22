@@ -1,0 +1,3 @@
+models: cnn, lda, linear-SVM
+features: Hilbert transform, features of the autoregressive (AR)-15 model coefficients, FBCSP, time frequency distributions (TFD), fast fourier transform (FFT), eigenvector methods (EM), wavelet transform (WT), and auto regressive method (ARM, csp
+High gamma neural activity averaged across trials and z-scored with respect to the pre-auditory stimuli baseline condition
