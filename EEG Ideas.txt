@@ -1,0 +1,6 @@
+eeg ideas
+- brain-training game that adjusts difficulty based on eeg feedback
+- "sleep digest": informs you about your sleep time + qua
+	- kinda like a fitbit but more indepth
+	- improves deep-sleep waves: research shows that sounds in sync
+- brainwave art: user can control diff colors/drawings based on simple commands
